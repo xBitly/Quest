@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quest</string>
+    <string name="return_button">ЗАНОВО</string>
+    <string name="anwer">Пройти историю еще раз?</string>
+</resources>
