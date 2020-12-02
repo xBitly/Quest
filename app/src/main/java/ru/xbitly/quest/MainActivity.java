@@ -31,6 +31,9 @@ public class MainActivity extends AppCompatActivity {
                                     "Списать всё у Ильи", "Сделать рассказ о Москве",
                                     "Сделать рассказ о Рязани", 3, 0, 0, 0),
 
+
+
+
                     //Исход при выборе варианта номер 1
                             new Situation(
                                     "ТЕМНЫЙ ЛЕС",
