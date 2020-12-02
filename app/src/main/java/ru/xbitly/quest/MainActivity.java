@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     public static Story story;
 
     Situation[] mas_situation =
+
             {
                     //Первая ситуация
                             new Situation(
