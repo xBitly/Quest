@@ -9,6 +9,6 @@ public class Story {
     }
 
     public boolean isEnd() {
-        return current_situation.direction.length == 0;
+        return current_situation.count == 0;
     }
 }

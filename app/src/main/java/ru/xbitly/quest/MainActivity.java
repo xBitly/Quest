@@ -199,6 +199,12 @@ public class MainActivity extends AppCompatActivity {
         variant1.setText(story.current_situation.variant1);
         variant2.setText(story.current_situation.variant2);
         variant3.setText(story.current_situation.variant3);
+
+        if(story.isEnd()){
+            hp.setText("0");
+            brains.setText("0");
+            stars.setText("0");
+        }
     }
 
     public void play_story(){
